@@ -6,7 +6,6 @@
 </svelte:head>
 
 <section>
-	<h1> Home</h1>
-	<a sveltekit:prefetch href="/about-us/">About Us &rarr; - Client </a><br>
-	<a sveltekit:reload href="/about-us/">About Us &rarr; - Reload</a>
+	<h1>Home Page</h1>
+	<p>Home page content from sveltekit</p>
 </section>
